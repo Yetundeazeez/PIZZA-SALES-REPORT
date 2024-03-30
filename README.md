@@ -21,11 +21,13 @@ The dataset used can be downloaded
 ---
 
 ## Tools Used for Analysis 
-The tool used for this project analysis is Power BI and it can be found [here](https://powerbi.microsoft.com/en-us/downloads/)
+- The tool used for this project analysis is Power BI and it can be found [here](https://powerbi.microsoft.com/en-us/downloads)
+- Power Query Editor 
 
 ---
 
 ## Data Cleaning and Transformation
+
 
 
 ---
