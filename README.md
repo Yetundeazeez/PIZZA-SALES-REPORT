@@ -11,7 +11,7 @@
 ---
 
 ## Project Overview
-The purpose of this project is to perform data analysis on the PIZZA SALES dataset based on the indicators that mostly affect the employment status of employees in a company.
+The purpose of this project is to perform data analysis on the PIZZA SALES dataset in order to know where AZ pizza company should focus on to increase sales and returns by 100%.
 
 ---
 ## Dataset
