@@ -47,7 +47,7 @@ The report of the AZ Pizza Company's Sales for 2015 are:
 - The total sales made was $817,860.05 and the total number of transactions is 49,574
 - Large-sized pizzas is the best selling pizza with about $37,532 total sales while the extra extra large-sized pizza was the least sold pizza with a sales of $1,000 sales.
 - Large-sized pizzas make up the largest percentage of sales by (45.89%) followed by the medium-sized (30.49%) 
-- The classic pizza type was the most sold pizza type (26.91%)
+- The classic pizza types were the most sold pizza types (26.91%)
 - 
 ---
 
