@@ -40,6 +40,8 @@ The data types for the variable names were checked
 
 I used the DAX functions to calculate the Total sales made
 
+![](g2.JPG)
+
 ---
 
 ## Results and Findings
