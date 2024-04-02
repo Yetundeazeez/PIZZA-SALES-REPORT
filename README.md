@@ -42,7 +42,7 @@ I used the DAX functions to calculate the Total sales made
 
 ---
 
-## Results and Finding
+## Results and Findings
 
 The report of the AZ Pizza Company's Sales for 2015 are:
 
