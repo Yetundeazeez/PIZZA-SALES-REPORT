@@ -18,7 +18,7 @@ The purpose of this project is to perform data analysis on the PIZZA SALES datas
 The dataset used can be downloaded 
 [here](https://www.kaggle.com/datasets/nextmillionaire/pizza-sales-dataset)
 
-The combined dataset can be seen ![here](pizza-sales.xls)
+The combined dataset can be seen ![here](pizza\_sales.xls)
 
 ---
 
