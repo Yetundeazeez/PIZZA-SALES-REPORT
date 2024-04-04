@@ -46,6 +46,8 @@ I used the DAX functions to calculate the Total sales made
 
 ## Results and Findings
 
+![](g2..JPG)
+
 The report of the AZ Pizza Company's Sales for 2015 are:
 
 - The total sales made was $817,860.05 and the total number of transactions is 49,574
